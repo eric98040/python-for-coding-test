@@ -28,7 +28,7 @@
 |:-----:|:-----:|
 |01|[Basic Concept](https://github.com/eric98040/python-for-coding-test/blob/main/Greedy/Basic%20Concept.py)|
 |02|[큰 수의 법칙](https://github.com/eric98040/python-for-coding-test/blob/main/Greedy/%ED%81%B0%20%EC%88%98%EC%9D%98%20%EB%B2%95%EC%B9%99.py)|
-|03|숫자 카드 게임|
+|03|[숫자 카드 게임](https://github.com/eric98040/python-for-coding-test/blob/main/Greedy/%EC%88%AB%EC%9E%90%20%EC%B9%B4%EB%93%9C%20%EA%B2%8C%EC%9E%84.py)|
 |04|1이 될 때까지|
 
 
