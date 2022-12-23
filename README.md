@@ -41,8 +41,8 @@
 
 |       순서        |         문제 유형       |   
 |:-----:|:-----:|
-|01|Basic Concept|
-|02|상하좌우|
+|01|[Basic Concept](https://github.com/eric98040/python-for-coding-test/blob/main/Implementation/Basic%20Concept.py)|
+|02|[상하좌우](https://github.com/eric98040/python-for-coding-test/blob/main/Implementation/%EC%83%81%ED%95%98%EC%A2%8C%EC%9A%B0.py)|
 |03|시각|
 |04|왕실의 나이트|
 |05|게임 개발|
