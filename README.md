@@ -44,5 +44,5 @@
 |01|[Basic Concept](https://github.com/eric98040/python-for-coding-test/blob/main/Implementation/Basic%20Concept.py)|
 |02|[상하좌우](https://github.com/eric98040/python-for-coding-test/blob/main/Implementation/%EC%83%81%ED%95%98%EC%A2%8C%EC%9A%B0.py)|
 |03|시각|
-|04|왕실의 나이트|
+|04|[왕실의 나이트](https://github.com/eric98040/python-for-coding-test/blob/main/Implementation/%EC%99%95%EC%8B%A4%EC%9D%98%20%EB%82%98%EC%9D%B4%ED%8A%B8.py)|
 |05|게임 개발|
