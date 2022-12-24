@@ -45,4 +45,24 @@
 |02|[상하좌우](https://github.com/eric98040/python-for-coding-test/blob/main/Implementation/%EC%83%81%ED%95%98%EC%A2%8C%EC%9A%B0.py)|
 |03|[시각](https://github.com/eric98040/python-for-coding-test/blob/main/Implementation/%EC%8B%9C%EA%B0%81.Py)|
 |04|[왕실의 나이트](https://github.com/eric98040/python-for-coding-test/blob/main/Implementation/%EC%99%95%EC%8B%A4%EC%9D%98%20%EB%82%98%EC%9D%B4%ED%8A%B8.py)|
-|05|게임 개발|
+|05|[게임 개발](https://github.com/eric98040/python-for-coding-test/blob/main/Implementation/%EA%B2%8C%EC%9E%84%20%EA%B0%9C%EB%B0%9C.py)|
+
+
+<br/>
+
+:exclamation: **탐색** :exclamation:
+
+
+**[5. DFS & BFS](https://github.com/eric98040/python-for-coding-test/tree/main/DFS%20%26%20BFS)**
+
+
+|       순서        |         문제 유형       |   
+|:-----:|:-----:|
+|01|[Basic Concept1 (스택과 큐)](https://github.com/eric98040/python-for-coding-test/blob/main/DFS%20%26%20BFS/Basic%20Concept1%20(%EC%8A%A4%ED%83%9D%EA%B3%BC%20%ED%81%90).py)|
+|02|Basic Concept2 (재귀함수)|
+|03|Basic Concept3 (DFS)|
+|04|Basic Concept4 (BFS)|
+|05|DFS & BFS|
+|06|음료수 얼려 먹기|
+|07|미로 탈출|
+
