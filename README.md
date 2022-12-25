@@ -63,5 +63,5 @@
 |03|[Basic Concept3 (그래프의 표현)](https://github.com/eric98040/python-for-coding-test/blob/main/DFS%20%26%20BFS/Basic%20Concept3%20(%EA%B7%B8%EB%9E%98%ED%94%84%EC%9D%98%20%ED%91%9C%ED%98%84).py)|
 |04|[Basic Concept4 (DFS & BFS)](https://github.com/eric98040/python-for-coding-test/blob/main/DFS%20%26%20BFS/Basic%20Concept4%20(DFS%20%26%20BFS).py)|
 |05|[음료수 얼려 먹기](https://github.com/eric98040/python-for-coding-test/blob/main/DFS%20%26%20BFS/%EC%9D%8C%EB%A3%8C%EC%88%98%20%EC%96%BC%EB%A0%A4%20%EB%A8%B9%EA%B8%B0.Py)|
-|06|미로 탈출|
+|06|[미로 탈출](https://github.com/eric98040/python-for-coding-test/blob/main/DFS%20&%20BFS/%EB%AF%B8%EB%A1%9C%20%ED%83%88%EC%B6%9C.py)|
 
