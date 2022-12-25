@@ -36,16 +36,9 @@
     
 '''
     
-def DFS(v) : 
-  
-  visited[v] = True
-  
-  for i in graph[v] : 
-    if not visited[v] :     
-      DFS(v)
     
     
-# DFS 메서드 정의
+# DFS 메서드 정의 (방문처리 1번 & append X)
 
 def dfs(graph, v, visited) : 
   # 현재 노드를 방문처리 -> 그 노드의 번호를 출력
@@ -56,12 +49,7 @@ def dfs(graph, v, visited) :
     if not visited[i] : 
       dfs(graph, i , visited)
       
-# def dfs(graph, v, visited) : 
-#   visited[v]= True
-#   print(v, end = ' ')
-#   for i in graph[v] : 
-#     if visited[i] == False : 
-#       dfs(graph, i, visited)
+      
 
 # 각 노드가 연결된 정보를 표현 (2차원 리스트)
   # 노드가 시작하는 번호가 1번부터가 많으므로 0번 인덱스는 비워두기
@@ -105,7 +93,8 @@ dfs(graph, 1, visited)
 
 from collections import deque
 
-# BFS 메서드 정의
+# BFS 메서드 정의 (방문처리 2번 & append O)
+
 def bfs (graph, start, visited) : 
     # Queue 구현을 위해 deque 라이브러리 사용
     queue = deque([start])
