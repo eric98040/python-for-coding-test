@@ -1,20 +1,54 @@
-# 그래프 : 노드(Node) or 정점(Vertex) + 에지(Edge)로 구성된 집합
-# 노드 : 데이터를 표현하는 단위 , 에지 : 노드를 연결함
-# 연결 요소 : 에지로 연결된 노드의 집합
-# 그래프를 구현하는 3가지 방법
+'''
 
-# 2차원 리스트 초기화
+
+• 그래프 : 노드(Node) or 정점(Vertex) + 에지(Edge)로 구성된 집합
+• 노드 : 데이터를 표현하는 단위 , 에지 : 노드를 연결함
+• 연결 요소 : 에지로 연결된 노드의 집합
+• 그래프를 구현하는 3가지 방법
+
 import sys
 input = sys.stdin.readline
 print = sys.stdout.write
 
-# m : row, n : column
-m,n = map(int, input().split())
-array = [[0]*m for _ in range(n)]
+• 얕은 복사 : 세로값들이 전부 동시에 변경됨
+• array_new의 [0],[1],...,[n-1]들이 각각 하나의 객체를 바라봄
+array_new = [[0]*y]*x 
 
-# 얕은 복사 : 세로값들이 전부 동시에 변경됨
-# array_new의 [0],[1],...,[n-1]들이 각각 하나의 객체를 바라봄
-array_new = [[0]*m]*n 
+
+
+• z <- y <- x 방향으로 xyz
+
+• 2차원 리스트 초기화
+y,x,z = map(int, input().split())
+array = [[0]*y for _ in range(x)]
+
+원소 접근 : array[x][y]
+
+
+• 3차원 리스트 초기화
+array = [[[0]*z for _ in range(y)] for _ in range(x)]
+
+원소 접근 : array[x][y][z]
+
+
+
+       Z
+       |
+       |
+       |
+       |
+       |
+       | -----------------> Y
+      /
+     /
+    /
+   /
+  /
+ /
+X
+ 
+'''
+
 
 '''
 
