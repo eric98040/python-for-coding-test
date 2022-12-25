@@ -3,11 +3,11 @@
   # 대표적인 그래프 탐색 알고리즘 : DFS & BFS
   # 코테에서 매우 자주 등장하는 유형
   
-# 스택 (first-in, last-out = FILO) 
-  # 먼저 들어 온 데이터가 나중에 나가는 형식 (박스 쌓아올리기)
+# 스택 (first-in, last-out = FILO)
+  # 먼저 들어 온 데이터가 나중에 나가는 형식 (선입후출, 박스 쌓아올리기)
   # 입구와 출구가 동일한 형태 
   # ㄷ자 형태 <--- in, ---> out
-  # 구현은 list 자료형으로 가능 (append,pop 함수)
+  # 구현은 list 자료형으로 가능 (append,pop 함수 O(1)시간 복잡도)
   
   
 # 삽입(5) - 삽입(2)  - 삽입(3) - 삽입(7) - 삭제() - 삽입(1) - 삽입(4) - 삭제()  
@@ -17,7 +17,7 @@ stack.append(5)
 stack.append(2)
 stack.append(3)
 stack.append(7)
-stack.pop()
+stack.pop() 
 stack.append(1)
 stack.append(4)
 stack.pop()
@@ -27,7 +27,7 @@ print(stack) # stack의 최하단 원소부터 쭉 출력
 
 
 # 큐 (first-in, first-out = FIFO)
-  # 먼저 들어온 데이터가 나가는 형식 (선입후출)의 자료구조
+  # 먼저 들어온 데이터가 먼저 나가는 형식 (선입선출)의 자료구조
   # 입구와 출구가 모두 뚫려 있는 터널과 같은 형태로 시각화 : (일종의 대기줄)
   # out <----------- in
   
