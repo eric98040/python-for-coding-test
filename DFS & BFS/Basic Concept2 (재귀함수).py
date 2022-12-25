@@ -39,9 +39,40 @@
     • 연산이 끝난 후 연산 성공이나 실패를 반환해야 한다면 달라지겠지만, 그게 아니라 단순히 글로벌 변수 연산이 목적이라면, 사용하지 않는 경우가 있다.
 
 
+• def dfs():
+
+	 if 재귀 종료 조건:
+    		 return cnt
+            
+     dfs()
+
+
+            return None
+               /      \
+        return None  return None   
+            /           \
+         재귀 종료       재귀 종료
+       return cnt    return cnt
 
 
 
+• def dfs():
+
+	if 재귀 종료 조건:
+    		return cnt
+            
+    return dfs() -> 이렇게 해줘야 된다.
+    
+    
+              return cnt
+               /      \
+        return cnt  return cnt  
+            /           \
+         재귀 종료       재귀 종료
+       return cnt    return cnt
+       
+       
+위에 있는 노드들도 dfs()를 반환 -> 그 dfs()가 cnt를 반환 : 결국 위에 있는 노드들은 cnt를 반환
 
 '''
 # 팩토리얼 구현 예제
@@ -54,7 +85,7 @@ def factorial_iterative(n) :
         result*=i
     return result
 
-# 재귀적으로 구현한 n!
+# 재귀적으로 구현한 n! 
 
 def factorial_recursive(n) : 
     # n이 1이하인 경우 1을 반환
