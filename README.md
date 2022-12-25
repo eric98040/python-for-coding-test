@@ -67,4 +67,23 @@
 |07|[미로 탈출](https://github.com/eric98040/python-for-coding-test/blob/main/DFS%20&%20BFS/%EB%AF%B8%EB%A1%9C%20%ED%83%88%EC%B6%9C.py)|
 
 
+<br/>
+
+:exclamation: **정렬** :exclamation:
+
+
+**[6. Sorting](https://github.com/eric98040/python-for-coding-test/tree/main/Sorting)**
+
+
+|       순서        |         문제 유형       |   
+|:-----:|:-----:|
+|01|[Basic Concept1 (정렬)](https://github.com/eric98040/python-for-coding-test/blob/main/Sorting/Basic%20Concept1%20(%EC%A0%95%EB%A0%AC).py)|
+|02|[Basic Concept2 (선택 정렬)](https://github.com/eric98040/python-for-coding-test/blob/main/Sorting/Basic%20Concept2%20(%EC%84%A0%ED%83%9D%20%EC%A0%95%EB%A0%AC).py)|
+|03|[Basic Concept3 (삽입 정렬)](https://github.com/eric98040/python-for-coding-test/blob/main/Sorting/Basic%20Concept3%20(%EC%82%BD%EC%9E%85%20%EC%A0%95%EB%A0%AC).py)|
+|04|[Basic Concept4 (퀵 정렬)](https://github.com/eric98040/python-for-coding-test/blob/main/Sorting/Basic%20Concept4%20(%ED%80%B5%20%EC%A0%95%EB%A0%AC).py)|
+|05|[Basic Concept5 (계수 정렬)](https://github.com/eric98040/python-for-coding-test/blob/main/Sorting/Basic%20Concept5%20(%EA%B3%84%EC%88%98%20%EC%A0%95%EB%A0%AC).py)|
+|06|위에서 아래로|
+|07|성적이 낮은 순서로 학생 출력하기|
+
+
 
