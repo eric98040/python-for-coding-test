@@ -60,8 +60,8 @@
 |:-----:|:-----:|
 |01|[Basic Concept1 (스택과 큐)](https://github.com/eric98040/python-for-coding-test/blob/main/DFS%20%26%20BFS/Basic%20Concept1%20(%EC%8A%A4%ED%83%9D%EA%B3%BC%20%ED%81%90).py)|
 |02|[Basic Concept2 (재귀함수)](https://github.com/eric98040/python-for-coding-test/blob/main/DFS%20&%20BFS/Basic%20Concept2%20(%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98).py)|
-|03|Basic Concept3 (DFS)|
-|04|Basic Concept4 (BFS)|
+|03|[Basic Concept3 (그래프의 표현)](https://github.com/eric98040/python-for-coding-test/blob/main/DFS%20%26%20BFS/Basic%20Concept3%20(%EA%B7%B8%EB%9E%98%ED%94%84%EC%9D%98%20%ED%91%9C%ED%98%84).py)|
+|04|Basic Concept4 (DFS & BFS)|
 |05|DFS & BFS|
 |06|음료수 얼려 먹기|
 |07|미로 탈출|
