@@ -19,6 +19,7 @@ def BFS(a,b) :
     
     queue = deque()
     queue.append((a,b))
+    # 1에서 시작하므로 방문처리 이미 선반영됨
     
     while queue : 
         x,y = queue.popleft()
@@ -27,7 +28,7 @@ def BFS(a,b) :
             nx = x + dx[i]
             ny = y + dy[i]
                 
-        
+            # return None을 하면 반복문이 끝남 (early return) -> continue로 탈출
             if nx<0 or ny<0 or nx>=n or ny >= m : 
                 continue
             
