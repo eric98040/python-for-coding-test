@@ -32,6 +32,9 @@ for i in range(m) :
             
 # BFS + 시뮬레이션 : 방문처리 2번 + append 사용
 
+dx = [0,0,1,-1]
+dy = [1,-1,0,0]
+
 from collections import deque
 
 def BFS(a,b) :
@@ -42,6 +45,19 @@ def BFS(a,b) :
     while queue : 
         # x,y는 이미 queue에 들어있는 애 -> 다시 방문처리할 필요가 없음 (이미 append할 때 방문처리함)
         x,y = queue.popleft()
+        
+        # 1번 방법
+        
+        for i in range(len(dx)) :
+            nx = x + dx[i]
+            ny = y + dy[i]
+            
+            if 0<= nx<n and 0<=ny<m and not visited[nx][ny] :
+                visited[nx][ny] = True
+                queue.append((nx,ny))
+                
+        
+        # 2번 방법
         
         for nx,ny in [(x+1,y),(x-1,y),(x,y+1),(x,y-1)] :
             
