@@ -83,7 +83,7 @@
 |04|[Basic Concept4 (퀵 정렬)](https://github.com/eric98040/python-for-coding-test/blob/main/Sorting/Basic%20Concept4%20(%ED%80%B5%20%EC%A0%95%EB%A0%AC).py)|
 |05|[Basic Concept5 (계수 정렬)](https://github.com/eric98040/python-for-coding-test/blob/main/Sorting/Basic%20Concept5%20(%EA%B3%84%EC%88%98%20%EC%A0%95%EB%A0%AC).py)|
 |06|[위에서 아래로](https://github.com/eric98040/python-for-coding-test/blob/main/Sorting/%EC%9C%84%EC%97%90%EC%84%9C%20%EC%95%84%EB%9E%98%EB%A1%9C.py)|
-|07|성적이 낮은 순서로 학생 출력하기|
+|07|[성적이 낮은 순서로 학생 출력하기](https://github.com/eric98040/python-for-coding-test/blob/main/Sorting/%EC%84%B1%EC%A0%81%EC%9D%B4%20%EB%82%AE%EC%9D%80%20%EC%88%9C%EC%84%9C%EB%A1%9C%20%ED%95%99%EC%83%9D%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.py)|
 
 
 
