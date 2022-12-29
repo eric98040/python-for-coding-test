@@ -33,7 +33,7 @@
       else : 
           return arr[mid]
 
-    return arr[start]
+    return None
   
   # 이 경우 무조건 end + 1 == start 이 됨 
   # start를 출력하면 : 이후 경계의 first 원소
