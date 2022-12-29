@@ -87,3 +87,15 @@
 |08|[두 배열의 원소 교체](https://github.com/eric98040/python-for-coding-test/blob/main/Sorting/%EB%91%90%20%EB%B0%B0%EC%97%B4%EC%9D%98%20%EC%9B%90%EC%86%8C%20%EA%B5%90%EC%B2%B4.py)|
 
 
+<br/>
+
+:exclamation: **이진 탐색** :exclamation:
+
+
+**[6. Binary Search](https://github.com/eric98040/python-for-coding-test/tree/main/Sorting)**
+
+
+|       순서        |         문제 유형       |   
+|:-----:|:-----:|
+|01|[Basic Concept1 (이진 탐색)](https://github.com/eric98040/python-for-coding-test/blob/main/Sorting/Basic%20Concept1%20(%EC%A0%95%EB%A0%AC).py)|
+|02|[Basic Concept2 (라이브러리)](https://github.com/eric98040/python-for-coding-test/blob/main/Sorting/Basic%20Concept1%20(%EC%A0%95%EB%A0%AC).py)|
