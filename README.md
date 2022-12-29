@@ -97,5 +97,5 @@
 
 |       순서        |         문제 유형       |   
 |:-----:|:-----:|
-|01|[Basic Concept1 (이진 탐색)](https://github.com/eric98040/python-for-coding-test/blob/main/Binary%20Search/Basic%20Concept1%20(%EC%9D%B4%EC%A7%84%20%ED%83%90%EC%83%89).py).py)|
-|02|[Basic Concept2 (라이브러리)](https://github.com/eric98040/python-for-coding-test/blob/main/Binary%20Search/Basic%20Concept2%20(%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC).py).py)|
+|01|[Basic Concept1 (이진 탐색)](https://github.com/eric98040/python-for-coding-test/blob/main/Binary%20Search/Basic%20Concept1%20(%EC%9D%B4%EC%A7%84%20%ED%83%90%EC%83%89).py)|
+|02|[Basic Concept2 (라이브러리)](https://github.com/eric98040/python-for-coding-test/blob/main/Binary%20Search/Basic%20Concept2%20(%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC).py)|
