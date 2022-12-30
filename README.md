@@ -99,3 +99,6 @@
 |:-----:|:-----:|
 |01|[Basic Concept1 (이진 탐색)](https://github.com/eric98040/python-for-coding-test/blob/main/Binary%20Search/Basic%20Concept1%20(%EC%9D%B4%EC%A7%84%20%ED%83%90%EC%83%89).py)|
 |02|[Basic Concept2 (라이브러리)](https://github.com/eric98040/python-for-coding-test/blob/main/Binary%20Search/Basic%20Concept2%20(%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC).py)|
+|03|[떡볶이 떡 만들기](https://github.com/eric98040/python-for-coding-test/blob/main/Binary%20Search/%EB%96%A1%EB%B3%B6%EC%9D%B4%20%EB%96%A1%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py)|
+|04|[부품 찾기](https://github.com/eric98040/python-for-coding-test/blob/main/Binary%20Search/%EB%B6%80%ED%92%88%20%EC%B0%BE%EA%B8%B0.Py)|
+
