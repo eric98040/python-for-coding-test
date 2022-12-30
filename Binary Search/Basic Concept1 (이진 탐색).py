@@ -36,6 +36,8 @@
   • start를 출력하면 : 이후 경계의 first 원소
   • end를 출력하면 : 이전 경계의 last 원소
   
+• mid값을 계속해서 갱신해야 하므로 while문 안으로 들어가야 함!!
+  
 • 함수 설정해서 sum+=i//mid 이렇게 쓰지 말 것
 • 그냥 for문으로 sum+=i//mid 이렇게 세팅
   
@@ -131,7 +133,7 @@ else :
 def binary_search(array,target,start,end) : 
     while start < end : 
         # 찾은 경우 중간점 인덱스 반환
-        mid = start + (end - start) // 2
+        mid = start + (end - start) // 2 # mid값을 계속해서 갱신해야 하므로 while문 안으로 들어가야 함!!
         if array[mid] == target : 
             return mid
         # 중간점의 값보다 찾고자 하는 값이 작은 경우 왼쪽 확인
